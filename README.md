@@ -9,3 +9,4 @@ Cybersecurity &amp; data privacy
 |7.11.2024|1h 30min| Lecture nr:2|Second lecture|
 |11.11.2024|1h|Labs|SQL injection first lab done|
 |11.11.2024|1h|Labs|Reading about authentication and completing the lab|
+|11.11.2024|1h 30 min|Labs|Reading about Access control and completing the lab|
