@@ -12,3 +12,4 @@ Cybersecurity &amp; data privacy
 |11.11.2024|1h 30 min|Labs|Reading about Access control and completing the lab|
 |11.11.2024|4h 30 min|Labs|completing the labs|
 |17.11.2024|1h|Homework Week2|Submitting week 2 homework|
+|18.11.2024|1h|Lecture 11.11.-24|Listening Lecture 11.11.-24|
