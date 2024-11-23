@@ -13,3 +13,6 @@ Cybersecurity &amp; data privacy
 |11.11.2024|4h 30 min|Labs|completing the labs|
 |17.11.2024|1h|Homework Week2|Submitting week 2 homework|
 |18.11.2024|2h|Lecture 11.11.-24|Listening Lecture 11.11.-24|
+|20.11.2024|3h|Cisco course|Doing cisco course|
+|21.11.2024|3h|Cisco course|completing cisco course|
+|23.11.2024|4h|phase1&pahese 2|Doing database and testing it|
