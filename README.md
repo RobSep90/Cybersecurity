@@ -16,3 +16,5 @@ Cybersecurity &amp; data privacy
 |20.11.2024|3h|Cisco course|Doing cisco course|
 |21.11.2024|3h|Cisco course|completing cisco course|
 |23.11.2024|4h|phase1&pahese 2|Doing database and testing it|
+|20.12.2024|1h| Lecture |Database phase 1|
+|20.12.2024|3h|Fixing the errors in  phase 1| phase 1 and test|
