@@ -18,3 +18,5 @@ Cybersecurity &amp; data privacy
 |23.11.2024|4h|phase1&pahese 2|Doing database and testing it|
 |20.12.2024|1h| Lecture |Database phase 1|
 |20.12.2024|3h|Fixing the errors in  phase 1| phase 1 and test|
+|20.12.2024|1h|link to report nro:1| https://github.com/RobSep90/Cybersecurity/blob/main/firstRound.md|
+|20.12.2024|1h|Adding email verification| https://github.com/RobSep90/Cybersecurity/blob/main/Second_Round-.md|
