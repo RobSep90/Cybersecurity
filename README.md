@@ -20,4 +20,8 @@ Cybersecurity &amp; data privacy
 |20.12.2024|3h|Fixing the errors in  phase 1| phase 1 and test|
 |20.12.2024|1h|link to report nro:1| https://github.com/RobSep90/Cybersecurity/blob/main/firstRound.md|
 |20.12.2024|1h|Adding email verification| https://github.com/RobSep90/Cybersecurity/blob/main/Second_Round-.md|
-|27.12.2024|3h| Lecture |Watching lectures and doing Database phase2|
+|27.12.2024|2h| Lecture |Watching lectures and doing Database phase2|
+|27.12.2024|3h| Phase 2 of Booking system |Database phase2|
+|28.12.2024|1h| Link to firt Report |https://github.com/RobSep90/Cybersecurity/blob/main/Phase2_Report1.md|
+|28.12.2024|3h| phase 2 |Adding CPS to database|
+|28.12.2024|1h| Link to second Report |https://github.com/RobSep90/Cybersecurity/blob/main/Phase2_Report2.md|
